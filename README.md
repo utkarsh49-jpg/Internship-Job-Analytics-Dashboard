@@ -61,7 +61,7 @@ The internship instructions mention filtering between **3 PM and 5 PM IST**. The
 
 ## Live Website
 
-internshipjobanalysisportal.netlify.app
+https://internshipjobanalysisportal.netlify.app
 
 ## Tableau Public Dashboard
 
