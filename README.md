@@ -15,9 +15,10 @@ This project analyzes internship job postings using an interactive Tableau dashb
 ## Tools & Technologies
 
 - Tableau Public
-- HTML5
-- CSV Dataset
+- HTML
+- Job Description CSV Dataset from Kaggle
 - Netlify
+- Jupyter Lab
 
 ## Dataset
 
@@ -64,8 +65,6 @@ The internship instructions mention filtering between **3 PM and 5 PM IST**. The
 https://internshipjobanalysisportal.netlify.app
 
 ## Tableau Public Dashboard
-
-Paste your Tableau Public link here.
 
 https://public.tableau.com/views/InternshipJobAnalyticsDashboard/InternshipDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
